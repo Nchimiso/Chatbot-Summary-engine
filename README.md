@@ -1,5 +1,5 @@
 - Documentation set up
-    1. Ensure **Ollama is installed** and running on your device with the following models downloaded:
+    1. Ensure **Ollama is installed** and running on your device with the desired LLMs.
     2. **Download Python 3.10+** from the official [Python website](https://www.python.org/downloads/)
         1. !!!Alternatively, use **VS Code** with the **Python extension** to make development easier.
     3. **Create a new Python script**, name it something like `roadmap_rag.py` in your working directory.
